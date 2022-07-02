@@ -10,7 +10,6 @@ public class Single_digit_number_ifElse {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Number");
 		num = sc.nextInt();
-
 		if (num == 0) {
 			System.out.println("The number entered is zero");
 		} else if (num == 1) {
