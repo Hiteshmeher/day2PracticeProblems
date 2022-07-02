@@ -27,7 +27,6 @@ public class Arithmetic_Operators_Max_min {
 		} else {
 			System.out.println("maximum is N4 " + N4);
 		}
-
 		if ((N1 <= N2) && (N1 <= N3) && (N1 >= N4)) {
 			System.out.println("minimum is N1 " + N1);
 		} else if ((N2 >= N1) && (N2 >= N3) && (N2 >= N4)) {
